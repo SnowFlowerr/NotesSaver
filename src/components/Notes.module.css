@@ -1,0 +1,36 @@
+.box{
+    border: 2px solid black;
+    width: 60vw;
+    margin: auto;
+    margin-top: 4vh;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px grey;
+}
+.inp{
+    padding: 10px;
+    width: 100%;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.textarea{
+    padding: 10px;
+    font-size: 30px;
+    width: 100%;
+    height: 70vh;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.btn{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+}
